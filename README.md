@@ -6,7 +6,7 @@ Tecnologías Utilizadas: - Node.js: Entorno de ejecución para JavaScript. / Exp
 
 Endpoints: 
 - `GET /gatos`: Obtiene todos los gatos.
-- `GET /gatos/:id`: Obtiene un gato específico por su ID.
+- `GET /gatos/:nombre`: Obtiene un gato específico por su nombre.
 - `POST /gatos`: Crea un nuevo gato.
 - `PUT /gatos/:id`: Actualiza los datos de un gato existente.
 - `DELETE /gatos/:id`: Elimina un gato.
